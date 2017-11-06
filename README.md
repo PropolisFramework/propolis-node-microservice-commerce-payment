@@ -1,2 +1,2 @@
-# propolis-node-microservice-payment
+# propolis-node-microservice-commerce-payment
 Propolis: Microservice: Payment
